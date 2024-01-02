@@ -1,0 +1,2 @@
+C:\Users\Khaled\Desktop\GUC\sem 7\Graphics\PROJ\Ass2\OpenGL3DTemplate\Debug\OpenGL3DTemplate.exe
+C:\Users\Khaled\Desktop\GUC\sem 7\Graphics\PROJ\3D test\Debug\OpenGL3DTemplate.exe
